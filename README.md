@@ -4,3 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkosei2003&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkosei2003&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkosei2003&theme=react)
+
+> [!NOTE]
+> This is **only** about Public Repo.
